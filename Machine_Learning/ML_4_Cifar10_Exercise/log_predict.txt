@@ -1,0 +1,7 @@
+Trying to restore last checkpoint ...
+2019-12-22 10:13:00.805490: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+Restored checkpoint from: ./tensorboard/cifar-10-v1.0.0/-22678
+
+Accuracy on Test-Set: 77.75% (7775 / 10000)
+
+Process finished with exit code 0
